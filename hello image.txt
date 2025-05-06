@@ -1,1 +1,3 @@
-This is the first line of the documnet.
+This is the first line of the document.
+
+This is the second line of the document.
