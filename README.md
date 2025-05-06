@@ -1,2 +1,2 @@
 # Sample
-where to practice git
+where to practice git and say hello!!!
